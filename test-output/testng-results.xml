@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4908" started-at="2018-05-27T03:42:16Z" finished-at="2018-05-27T03:42:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4908" started-at="2018-05-27T03:42:16Z" finished-at="2018-05-27T03:42:21Z">
+      <class name="Firstpagetest.ATHomePageTest">
+        <test-method status="PASS" signature="clickwebelenemtitems()[pri:0, instance:Firstpagetest.ATHomePageTest@15b5620]" name="clickwebelenemtitems" duration-ms="4601" started-at="2018-05-27T03:42:16Z" finished-at="2018-05-27T03:42:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickwebelenemtitems -->
+        <test-method status="PASS" signature="emailvalidation()[pri:0, instance:Firstpagetest.ATHomePageTest@15b5620]" name="emailvalidation" duration-ms="2" started-at="2018-05-27T03:42:21Z" finished-at="2018-05-27T03:42:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailvalidation -->
+        <test-method status="PASS" signature="verifyContainerDetails()[pri:0, instance:Firstpagetest.ATHomePageTest@15b5620]" name="verifyContainerDetails" duration-ms="270" started-at="2018-05-27T03:42:21Z" finished-at="2018-05-27T03:42:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContainerDetails -->
+      </class> <!-- Firstpagetest.ATHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
